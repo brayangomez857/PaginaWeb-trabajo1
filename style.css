@@ -1,0 +1,63 @@
+.titulo-principal{
+  color: gold;
+  font-size: 70px;
+  font-family: 'Silkscreen', cursive;
+}
+.subtitulo{
+  color: goldenrod;
+  font-size: 40px;
+  font-family: 'Silkscreen', cursive;
+}
+
+.lista-de-ventajasingles{
+  color: chocolate;
+  font-size: 20px;
+}
+a{
+  color: rgb(255, 51, 0);
+  font-size: 15px;
+  font-family: 'Silkscreen', cursive;
+}
+.informacion-pagina{
+  color: red;
+  font-size: 15px;
+  font-family: 'Silkscreen', cursive;
+}
+.antetitulo{
+  color: gray;
+  font-size: 23px;
+  font-family: 'Silkscreen', cursive;
+}
+.subtitulo-sobreimagen{
+  color: rgb(255, 149, 0);
+  font-size: 23px;
+  font-family: 'Silkscreen', cursive;
+}
+img{
+  text-align: center;
+  width: 500  px;
+  border-width: 5px;
+  border-color: black;
+  border-style: solid;
+}
+p{
+  color: white;
+}
+.titulo-section{
+  background-color: black;
+}
+.lista-section{
+  background-color: black;
+}
+.pronombres-section{
+  background-color: black;
+}
+.verbotobe-section{
+  background-color: black;
+}
+.presentesimple-section{
+  background-color: black;
+}
+body{
+  background-color: gold;
+}
