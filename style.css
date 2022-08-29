@@ -37,7 +37,7 @@ img{
   text-align: center;
   width: 500  px;
   border-width: 5px;
-  border-color: black;
+  border-color: red;
   border-style: solid;
 }
 p{
@@ -47,7 +47,48 @@ p{
   background-color: black;
 }
 .lista-section{
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: center;
+  background: purple;
+  border: 20px solid purple;
+  width: 98%;
   background-color: black;
+}
+
+.item2{
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: center;
+  background: purple;
+  border: 20px solid purple;
+  width: 98%;
+  background-color: black;
+
+}
+.item3{
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: center;
+  background: purple;
+  border: 20px solid purple;
+  width: 98%;
+  background-color: black;
+
+}
+.item4{
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: center;
+  background: purple;
+  border: 20px solid purple;
+  width: 98%;
+  background-color: black;
+
 }
 .pronombres-section{
   background-color: black;
@@ -58,6 +99,14 @@ p{
 .presentesimple-section{
   background-color: black;
 }
-body{
-  background-color: gold;
+.contenedorPrincipal{
+  display: flex;
+  
+  flex-direction: column;
+  align-items: stretch;
+  justify-content:space-evenly;
+
+  border: 5px solid slateblue;
+  padding: 10px;
+  margin: 10px;
 }
