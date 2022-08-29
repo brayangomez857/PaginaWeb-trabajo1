@@ -1,4 +1,5 @@
 *{
+  margin-top: 100px;
   margin: 0;
   padding: 0;
   box-sizing: border-box;
@@ -114,4 +115,16 @@ p{
   border: 5px solid slateblue;
   padding: 10px;
   margin: 10px;
+}
+ 
+.lista-section > .antetitulo{
+  color: red;
+}
+
+.pronombres-section > .item2 > .subtitulo{
+  color: green;
+}
+.verbotobe-section > .item3 > .subtitulo + P {
+  font-size: 30px;
+  color: rgb(255, 0, 0);
 }
