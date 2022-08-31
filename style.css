@@ -123,6 +123,7 @@ p{
 
 .pronombres-section > .item2 > .subtitulo{
   color: green;
+  font-family: 'Courier New', Courier, monospace;
 }
 .verbotobe-section > .item3 > .subtitulo + P {
   font-size: 30px;
